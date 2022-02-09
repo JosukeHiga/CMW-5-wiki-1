@@ -1,0 +1,35 @@
+  .sidebar{
+  border: 1px solid black;
+  float: left;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.mainsection{
+  border: 1px solid cornflowerblue;
+ overflow: auto;
+}
+
+.mainsection-image{
+  border: 1px solid cornflowerblue;
+  float: right;
+	width: min-content;
+}
+
+p{
+color: blueviolet;
+font-size: 20px;
+font-family: monospace;
+}
+
+#Intro {
+    font-size: 20px;
+    font-family: monospace;
+  
+}
+
+section{
+	clear: both;
+}
+
+
